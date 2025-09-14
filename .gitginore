@@ -1,0 +1,7 @@
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+#If you plan to store large audio datasets locally, uncomment data/ to ignore them
+# data/
